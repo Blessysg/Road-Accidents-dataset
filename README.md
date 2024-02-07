@@ -9,6 +9,8 @@
 
 # Dataset:
 - This is a Road accident dataset for the yera 2021 and 2022.
+- This data set has 21 columns
+- Created a new table "Calendar" which has 4 columns 
 - The dataset used in this project contains detailed information on road accidents, including casualties, accident types, vehicle involvement, road types, geographical areas (urban/rural), light conditions, and location specifics.
 
 # Analysis:
