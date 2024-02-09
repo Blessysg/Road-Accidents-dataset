@@ -1,7 +1,7 @@
 # Road-Accidents-dataset
 
 # Overview:
-- In this project, I employed a combination of tools including Power BI, Tableau, SQL Server Management Studio, and Excel to thoroughly analyze the database.
+- In this project, I employed a combination of tools including Power BI, SQL Server Management Studio to thoroughly analyze the database.
 - This project utilizes Power BI to analyze road accident data, providing insights into various aspects such as casualties, types of accidents, geographical distribution, vehicle involvement, and more. 
 - The analysis focuses on comparing current year statistics with the previous year, highlighting trends and patterns in road safety.
 - These dashboard is designed to be completely dynamic and interactive, allowing users to navigate through the data using various filters and slicers. 
